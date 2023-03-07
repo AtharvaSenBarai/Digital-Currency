@@ -49,7 +49,7 @@ const publicRegister = true;
 /* You can leave it as it. */
 
 const nameDB = "tonkenDB";
-const urlDB = "mongodb://localhost:27017/";
+const urlDB = "mongodb+srv://atharvaDB:atharva@cluster0.pxyli6m.mongodb.net/?retryWrites=true&w=majority";
 
 const app = express();
 
